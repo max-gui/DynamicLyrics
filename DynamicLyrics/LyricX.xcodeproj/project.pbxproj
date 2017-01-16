@@ -458,7 +458,7 @@
 				ORGANIZATIONNAME = Martian;
 				TargetAttributes = {
 					02710E89152A839F006D4BFF = {
-						DevelopmentTeam = TT5SA69489;
+						DevelopmentTeam = K5N596CL2V;
 					};
 				};
 			};
@@ -730,11 +730,10 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1477;
-				DEVELOPMENT_TEAM = TT5SA69489;
+				DEVELOPMENT_TEAM = K5N596CL2V;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
-					/Users/MartianZ/Documents/Xcode/DynamicLyrics/DynamicLyrics,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LyricX/LyricX-Prefix.pch";
@@ -755,11 +754,10 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1477;
-				DEVELOPMENT_TEAM = TT5SA69489;
+				DEVELOPMENT_TEAM = K5N596CL2V;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
-					/Users/MartianZ/Documents/Xcode/DynamicLyrics/DynamicLyrics,
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LyricX/LyricX-Prefix.pch";

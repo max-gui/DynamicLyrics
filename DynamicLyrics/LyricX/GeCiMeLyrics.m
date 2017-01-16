@@ -73,4 +73,8 @@ fail:
     
 }
 
++(NSString*)getLyricsByTitle:(NSString *)Title getLyricsByArtist:(NSString *)Artist getLyricsByID:(NSString *)ID;
+{
+    return @"";
+}
 @end
